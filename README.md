@@ -1,6 +1,7 @@
 WebSiteUseful
 ---
-![Build Status](https://travis-ci.org/shadowsocks/libQtShadowsocks.svg?branch=master)    
+![Build Status](https://travis-ci.org/shadowsocks/libQtShadowsocks.svg?branch=master) 
+<img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭">
 
 [中文说明](https://github.com/loremwalker/WebSiteUseful/wiki/WebSiteUseful%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 ## Typographic conventions
