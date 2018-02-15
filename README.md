@@ -17,7 +17,7 @@ WebSiteUseful
 ### YouToBe mirror site
 
 * <i>[Site provided by aploium](https://ytb-pc.zmirrordemo.com/)(requires access)</i>
-* <i>[Author speeder's site](https://youtube.speeder.cf/)(login password and account are speeder.club)</i>
+* <i>[Author speeder's site](https://youtube.speeder.cf/)(login username&password are speeder.club)</i>
 * <samp>[Author qiqiblog](http://wall.qiqiblog.cn/)</samp><i>(sometimes,requires access)</i>
 ### facebook mirror site
 
