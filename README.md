@@ -39,7 +39,6 @@ WebSiteUseful
 * ><i>[10minutemail](https://10minutemail.org/)</i>
 * ><i>[bccto.me](http://www.bccto.me)</i>
 ## Thanks
----
 <dl>
   <dt>github users：</dt>
   <dd><b>Aploium</b></dd>
@@ -51,6 +50,5 @@ WebSiteUseful
 </dl>  
 
 ## Acknowledgments github users of the project
----
 * <i>https://github.com/aploium/zmirror</i>
 * <i>https://github.com/Alvin9999/new-pac/</i>
