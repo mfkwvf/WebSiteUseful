@@ -18,7 +18,7 @@ WebSiteUseful
 
 * <i>[Site provided by aploium](https://ytb-pc.zmirrordemo.com/)(requires access)</i>
 * <i>[Author speeder's site](https://youtube.speeder.cf/)(login password and account are speeder.club)</i>
-* <samp>[Author qiqiblog](http://wall.qiqiblog.cn/)</samp>
+* <samp>[Author qiqiblog](http://wall.qiqiblog.cn/)</samp>(sometimes,requires access)
 ### facebook mirror site
 
 * <i>[Site provided by aploium](https://fb.zmirrordemo.com)(incomplete functionality to meet basic usage)</i>
