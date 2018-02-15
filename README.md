@@ -1,6 +1,6 @@
 WebSiteUseful
 ---
-<img src="https://img.shields.io/badge/build-passing-green.svg" title="hard loading">
+<img src="https://img.shields.io/badge/build-to be continued-red.svg" title="hard loading">
 
 [中文说明](https://github.com/loremwalker/WebSiteUseful/wiki/WebSiteUseful%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 ## Typographic conventions
