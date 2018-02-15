@@ -52,4 +52,3 @@ WebSiteUseful
 ## Acknowledgments github users of the project
 * <i>https://github.com/aploium/zmirror</i>
 * <i>https://github.com/Alvin9999/new-pac/</i>
-<span style="color:blue;font-weight:bold">蓝色</span>
