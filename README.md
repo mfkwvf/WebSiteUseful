@@ -44,7 +44,8 @@ WebSiteUseful
   <dd><b>Aploium</b></dd>
   <dd><b>Alvin9999</b></dd>
   <dt>sites：</dt>
-  <dd>www.speeder.club</dd>
+ <dd><samp>http://doub.io/</samp></dd>
+  <dd>www.speeder.club</dd>
   <dd>http://uuxn.com/</dd>
   <dd>https://coderschool.cn/</dd>
 </dl>  
