@@ -16,9 +16,9 @@ WebSiteUseful
  
 ### YouToBe mirror site
 
-* <i>[Site provided by aploium](https://ytb-pc.zmirrordemo.com/)(requires access)</i>
-* <i>[Author speeder's site](https://youtube.speeder.cf/)(login password and account are speeder.club)</i>
-* <samp>[Author qiqiblog](http://wall.qiqiblog.cn/)</samp>(sometimes,requires access)
+* <i>[Site provided by aploium](https://ytb-pc.zmirrordemo.com/)<bdi>(requires access)<bdi></i>
+* <i>[Author speeder's site](https://youtube.speeder.cf/)<bdi>(login password and account are speeder.club)</bdi></i>
+* <samp>[Author qiqiblog](http://wall.qiqiblog.cn/)</samp><i><bdi>(sometimes,requires access)<bdi></i>
 ### facebook mirror site
 
 * <i>[Site provided by aploium](https://fb.zmirrordemo.com)(incomplete functionality to meet basic usage)</i>
