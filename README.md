@@ -1,7 +1,8 @@
 WebSiteUseful
 ---
 ![Build Status](https://travis-ci.org/shadowsocks/libQtShadowsocks.svg?branch=master)    
-  [中文说明](https://github.com/loremwalker/WebSiteUseful/wiki/WebSiteUseful)
+
+   [中文说明](https://github.com/loremwalker/WebSiteUseful/wiki/WebSiteUseful)
 ---
 ## Typographic conventions
  * <samp>Formatted fonts represent the maintenance situation is not stable</samp>
