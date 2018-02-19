@@ -38,6 +38,20 @@ WebSiteUseful
 * <i>[chacuo](http://24mail.chacuo.net/)</i>
 * <i>[10minutemail](https://10minutemail.org/)</i>
 * <i>[bccto.me](http://www.bccto.me)</i>
+### Music download site
+* [beemp3s](http://beemp3s.org/)
+* [SoundCouldMp3](https://soundcloudmp3.org/zh)
+* [51ape](http://www.51ape.com/)
+### Book download site
+[epubee]
+Bitter melon book plate
+Kumara Book search
+gutenberg
+Weekly reading
+sobooks
+### free coupons download site for Baidu library 
+* [YHI](https://shui.azurewebsites.net/bdwk/)
+* [aiwenjian](http://aiwenjian.com/)
 ## Thanks
 <dl>
   <dt>github users：</dt>
