@@ -58,6 +58,7 @@ WebSiteUseful
   <dd>http://uuxn.com/</dd>
   <dd>https://coderschool.cn/</dd>
  <dd><samp>http://doub.io/</samp></dd>
+ <dd><a href="http://allenlow.com/blog">http://allenlow.com/blog</a></dd>
 </dl>  
 
 ## Acknowledgments github users of the project
