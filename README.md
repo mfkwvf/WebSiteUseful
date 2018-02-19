@@ -44,10 +44,10 @@ WebSiteUseful
 * [51ape](http://www.51ape.com/)
 ### Book download site
 * [epubee](http://cn.epubee.com/books/)
-* [苦瓜书盘](https://kgbook.com/)
+* [kgbook](https://kgbook.com/)
 * [jiumodiary](https://www.jiumodiary.com/)
 * [gutenberg](http://www.gutenberg.org/)
-* [周读](http://ireadweek.com/index.php)
+* [ireadweek](http://ireadweek.com/index.php)
 * [sobooks](https://sobooks.cc/)
 ### free coupons download site for Baidu library 
 * [YHI](https://shui.azurewebsites.net/bdwk/)
