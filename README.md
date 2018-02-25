@@ -52,7 +52,6 @@ WebSiteUseful
 <dl>
   <dt>github users：</dt>
   <dd><b>Aploium</b></dd>
-  <dd><b>Alvin9999</b></dd>
   <dt>sites：</dt>
   <dd>www.speeder.club</dd>
   <dd>http://uuxn.com/</dd>
@@ -63,4 +62,3 @@ WebSiteUseful
 
 ## Acknowledgments github users of the project
 * <i>https://github.com/aploium/zmirror</i>
-* <i>https://github.com/Alvin9999/new-pac/</i>
