@@ -22,7 +22,7 @@ WebSiteUseful
 #### ss/ssr account share site
 * <i>[KeXue Surfing](http://i.wuw.red) </i>
 * <i>[wo ai suan suan ru](http://www.ssr.blue/)</i>
-* <i>[逗比](https://doub.io) (has mirror site)</i>
+* [逗比](https://doub.io) (has mirror site)
 * <i>[ssrshare](https://www.ssrshare.com) (need account)</i>
 
 #### Free virtual phone site
