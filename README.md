@@ -21,7 +21,7 @@ WebSiteUseful
 * <i>[The site provided by aploium](https://t-pc.zmirrordemo.com/)</i>
 #### ss/ssr account share site
 * <i>[KeXue Surfing](http://i.wuw.red) </i>
-* <i>[wo ai suan suan ru](http://www.ssr.blue/)</i>
+* <i>[wo ai suan suan ru](http://52ssr.cn/)</i>
 * [逗比](https://doub.io) (has mirror site)
 * <i>[ssrshare](https://www.ssrshare.com) (need account)</i>
 
