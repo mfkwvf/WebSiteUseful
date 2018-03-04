@@ -22,6 +22,8 @@ WebSiteUseful
 #### ss/ssr account share site
 * <i>[KeXue Surfing](http://i.wuw.red) </i>
 * <i>[wo ai suan suan ru](http://52ssr.cn/)</i>
+* <i>[ubedu](https://www.ubedu.site/ss-ssr.html)</i>
+* <i>[freessr](https://freessr.win)</i>
 * [逗比](https://doub.io) (has mirror site)
 * <i>[ssrshare](https://www.ssrshare.com) (need account)</i>
 
