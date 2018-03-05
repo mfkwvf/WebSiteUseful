@@ -5,6 +5,7 @@ WebSiteUseful
 [中文说明](https://github.com/loremwalker/WebSiteUseful/wiki/WebSiteUseful%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 #### Typographic conventions
  * <samp>Formatted fonts represent the maintenance situation is not stable</samp>
+ * <samp>Remove line representatives can not be used</samp>
 #### Google mirror site 
  * <i>[Google Academic Imagery _google Academic Search Navigation](http://ac.scmor.com/)</i>
  * <i>[google mirror station](https://google.jiongjun.cc/)</i>
