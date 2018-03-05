@@ -55,7 +55,7 @@ WebSiteUseful
 * <i>[sobooks](https://sobooks.cc/)</i>
 #### Free coupons download site for Baidu library 
 * <i>[YHI](https://shui.azurewebsites.net/bdwk/)</i>
-* <i>[aiwenjian](http://aiwenjian.com/)</i>
+* <i><s>aiwenjian|aiwenjian.com</s></i>
 #### Site to convert images to ASCII text
 * <i>[makepic](http://www.makepic.net/Tool/Image2ascii.html)</i>
 * <i>[picascii](http://picascii.com/)</i>
